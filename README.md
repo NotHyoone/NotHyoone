@@ -1,8 +1,9 @@
 ## Hi there 👋
+안녕하세요
 
 <!--
 **NotHyoone/NotHyoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-안녕하세요
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
