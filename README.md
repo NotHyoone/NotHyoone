@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+## 하이
 ### 안녕하세요
-**bold text**
+**bold text**\n
 *italicized text*
 
 
