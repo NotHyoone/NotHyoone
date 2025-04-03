@@ -3,4 +3,4 @@
 ### 안녕하세요
 
 
-![HyWon's GitHub stats](https://github-readme-stats.vercel.app/api?AHW=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gydnjs3505@gmail.com&show_icons=true&theme=radical)
