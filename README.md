@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&text=AHY%20profile&animation=&fontColor=cd1818&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&text=AHY%20Profile&animation=&fontColor=cd1818&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction </h2>  
